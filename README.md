@@ -1,4 +1,7 @@
 # SHWelcomePageController
+
+简书地址:https://www.jianshu.com/p/f57f5565eb58
+
 首次启动app欢迎引导页控制器, 可直接导入项目中使用
 这是一个SHWelcomePageController, 里面提供以下属性及初始化方法:
 ```
